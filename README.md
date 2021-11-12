@@ -1,2 +1,2 @@
 # translation-Golang-extension
-Перевод расширения go в visual studio code
+Не полный перевод расширения go в visual studio code
